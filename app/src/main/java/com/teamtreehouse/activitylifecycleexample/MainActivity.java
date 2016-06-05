@@ -32,6 +32,7 @@ public class MainActivity extends LoggingActivity {
                 startActivity(intent);
             }
         });
+
     }
 
 }
